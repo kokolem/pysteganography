@@ -9,7 +9,7 @@
  [![GitHub last commit](https://img.shields.io/github/last-commit/kokolem/pysteganography)](https://github.com/kokolem/pysteganography/commits/master)
  [![GitHub forks](https://img.shields.io/github/forks/kokolem/pysteganography)](https://github.com/kokolem/pysteganography/network/members)
  [![GitHub stars](https://img.shields.io/github/stars/kokolem/pysteganography)](https://github.com/kokolem/pysteganography/stargazers)
- [![GitHub contributors](https://img.shields.io/github/contributors/kokolem/pysteganography](https://github.com/kokolem/pysteganography/graphs/contributors)
+ [![GitHub contributors](https://img.shields.io/github/contributors/kokolem/pysteganography)](https://github.com/kokolem/pysteganography/graphs/contributors)
  [![GitHub issues](https://img.shields.io/github/issues/kokolem/pysteganography)](https://github.com/kokolem/pysteganography/issues)
  ![Support <3](https://kokolem.github.io/LGBT-friendly-rainbow.svg)
  
