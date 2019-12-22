@@ -14,3 +14,16 @@
  ![Support <3](https://kokolem.github.io/LGBT-friendly-rainbow.svg)
  
 </div>
+
+## Usage
+#### usage: steganography.py [-h] [-m MESSAGE] filename
+
+This tool allows you to read hidden messages from images. Use the -m argument
+to hide the message into the image instead.
+
+### positional arguments:
+- filename – filename of the image you want to process
+
+### optional arguments:
+- -h, --help – show this help message and exit
+- -m MESSAGE, --message MESSAGE – the message you want to hide into the image
