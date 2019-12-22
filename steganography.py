@@ -17,7 +17,7 @@ width, height = image.size
 if args.message is not None:
     message_bytes = bytes(args.message, encoding='utf-8')
 
-    byte_capacity = width * height * 3 / 8  # how many bytes can be hidden into the image
+    byte_capacity = width * height * 3 // 8  # how many bytes can be hidden into the image
     if byte_capacity < len(message_bytes):
         print("The message is too long to fit into the image.")
         exit(1)
