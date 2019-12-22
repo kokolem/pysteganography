@@ -2,7 +2,7 @@
 
 <div align="center">
  
- Python script to hide and show messages from images using LSB steganography
+ Python script to hide and show messages from images using LSB steganography.
  
  [![License](https://img.shields.io/github/license/kokolem/pysteganography)](https://github.com/kokolem/pysteganography/blob/master/LICENSE)
  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kokolem/pysteganography)
